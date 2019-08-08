@@ -1,2 +1,2 @@
 # jk-starter
-WP dev starter theme, meant for rapid custom development starting point
+WP dev starter theme, meant for rapid custom development starting point for WordPress themes.
