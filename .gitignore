@@ -1,5 +1,7 @@
 # javascript ate the world
 node_modules/
+npm-debug.log
+
 
 # Let's try ignoring sourcemaps
 *.css.map
