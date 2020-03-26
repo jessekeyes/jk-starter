@@ -1,0 +1,6 @@
+# javascript ate the world
+node_modules/
+
+# Let's try ignoring sourcemaps
+*.css.map
+*.js.map
